@@ -1,0 +1,4 @@
+interface:
+  display_name: "CFDAgent"
+  short_description: "Discuss CFD, choose solvers, and review mesh quality"
+  default_prompt: "Use $cfdagent to discuss this flow problem, recommend a solver, and continue as needed."
