@@ -1,6 +1,6 @@
 {
   "name": "cfdagent",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A conversational CFD companion for solver choice, case setup, mesh review, computation, and result interpretation.",
   "author": {
     "name": "Zhaoyue Xu"
