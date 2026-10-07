@@ -1,7 +1,7 @@
 {
   "name": "cfdagent",
   "displayName": "CFDAgent",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "An open-ended CFD companion for modeling, solver choice, execution, validation, and reproducible working notes.",
   "author": {
     "name": "Zhaoyue Xu"
