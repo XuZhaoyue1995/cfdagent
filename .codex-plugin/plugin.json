@@ -11,7 +11,7 @@
     "shortDescription": "CFD modeling and simulation",
     "longDescription": "CFDAgent helps researchers and engineers work through computational fluid dynamics and fluid-mechanics problems in conversation. Discuss the physics, compare suitable solvers and their preparation and compute costs, set up cases, review mesh quality, plan runs, examine results, and prepare reproducible postprocessing and reports.\n\nThe plugin provides concise guidance and references that the host loads as needed. It follows the current task and evidence rather than a fixed sequence. Working notes help continue an existing project, and exported figures are inspected for readability.\n\nReferences cover OpenFOAM, SU2, FDS, MFiX, DualSPHysics, code_saturne, Basilisk, Nek5000/nekRS, Palabos, OpenLB, Nektar++, PyFR, and PyIB. Solver choice depends on the problem and available evidence.\n\nActual simulations require host tools that can access the project and execute commands, a suitable solver, and the necessary compute environment. The plugin does not bundle solvers, provide a hosted computation service, or require an MCP server. Available execution features depend on the host and the user's environment.\n\nDeveloped by Zhaoyue Xu, Experimental Zoology Group, Wageningen University & Research (WUR), Netherlands.",
     "developerName": "Zhaoyue Xu",
-    "category": "Productivity",
+    "category": "Education & Research",
     "capabilities": [
       "Solver selection",
       "Case setup",
