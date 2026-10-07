@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.1 — 2026-10-07
+
+- Replace the plugin icon with a closed fan outline without lettering.
+
 ## 0.2.0
 
 First public release.
